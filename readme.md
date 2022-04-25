@@ -1,0 +1,1 @@
+Este projeto tem como intuito aprendizado de git e github
